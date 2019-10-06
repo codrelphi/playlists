@@ -169,26 +169,110 @@ SONGS = [
         'year': None,
         'Country': None
     },
+    ----------------------------------------------------------
+    {
+        'title': "Mon Coupé décalé",
+        'singer': ['Bebi Philip'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Fumi",
+        'singer': ['Crisba', 'Sirano'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Spécialité Ivoirienne",
+        'singer': ['Debordo Leekunfa'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Case",
+        'singer': ['Teni'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Moto Moto",
+        'singer': ['Dj Arafat'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Victoire Remix",
+        'singer': ['Kerozen', 'Bracket'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Ça A Cuit",
+        'singer': ['Ko-C'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "N’oublie jamais",
+        'singer': ['Venom Cascadeur', 'Kerozen'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Jeune Fort",
+        'singer': ['Nikanor'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Bamanou (Hommage à Tohon Stan)",
+        'singer': ['Queen Fumi', 'Ralami'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Sans bruit",
+        'singer': ['Revolution'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "C’est pas Les gbés gbés gbés",
+        'singer': ["Shan'l"],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "La vie là-bas",
+        'singer': ['Toofan', 'Louane'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Uyo Meyo",
+        'singer': ["Teni"],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Gbese",
+        'singer': ["Qdot"],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
 ]
-
-"""
-Mix (Year 2019)
-•	Mon Coupé décalé – Bebi Philip
-•	Fumi – Crisba ft. Sirano
-•	Spécialité Ivoirienne - Debordo Leekunfa
-•	Moto Moto – Dj Arafat
-•	Victoire Remix - Kerozen ft. Bracket
-•	Ça A Cuit – Ko-C
-•	N’oublie jamais – Venom Cascadeur ft. Kerozen
-•	Jeune Fort - Nikanor
-•	Bamanou (Hommage à Tohon Stan) - Queen Fumi ft Ralami
-•	Sans bruit - Revolution
-•	Reason with me - Rudeboy
-•	C’est pas Les gbés gbés gbés – Shan’l
-•	La vie là-bas - Toofan ft. Louane
-•	Ou lé - Toofan ft. Jacob Desvarieux, Kassav
-•	Uyo Meyo - Teni
-•	Gbese - Qdot
-
-
-"""
