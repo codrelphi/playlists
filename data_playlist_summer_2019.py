@@ -92,23 +92,86 @@ SONGS = [
         'year': None,
         'Country': None
     },
+    {
+        'title': 'Laisse mon gibier',
+        'singer': ['Amaral'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "That's the way It is",
+        'singer': ['Céline Dion'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': 'The power of love',
+        'singer': ['Céline Dion'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': 'Because You Loved Me',
+        'singer': ['Céline Dion'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "I'm alive",
+        'singer': ['Céline Dion'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Earth Song",
+        'singer': ['Michael Jackson'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Heal The World",
+        'singer': ['Michael Jackson'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Will You Be There",
+        'singer': ['Michael Jackson'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "You Are Not Alone",
+        'singer': ['Michael Jackson'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "We are the World",
+        'singer': ['USA for Africa'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
+    {
+        'title': "Case",
+        'singer': ['Teni'],
+        'style': None,
+        'year': None,
+        'Country': None
+    },
 ]
 
-
 """
-
-Mix (Before 2019)
-•	Laisse mon gibier – Amaral
-•	That's the way It is - Céline Dion
-•	The power of love - Céline Dion
-•	Because You Loved Me - Céline Dion
-•	I'm alive - Céline Dion
-•	Earth Song - Michael Jackson
-•	Heal The World - Michael Jackson
-•	Will You Be There - Michael Jackson
-•	You Are Not Alone - Michael Jackson
-•	We are the World - USA for Africa
-•	Case – Teni
 Mix (Year 2019)
 •	Mon Coupé décalé – Bebi Philip
 •	Fumi – Crisba ft. Sirano
