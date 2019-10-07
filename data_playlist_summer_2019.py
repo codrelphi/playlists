@@ -11,91 +11,91 @@ SONGS = [
     {
         'title': '10 000 reasons (Bless the Lord)',
         'singer': ['Matt Redman'],
-        'style': None,
+        'style': 'Gospel',
         'year': None,
         'Country': 'Angleterre'
     },
     {
         'title': 'Above all',
         'singer': ['Michael W. Smith'],
-        'style': None,
+        'style': 'Gospel',
         'year': None,
         'Country': 'USA'
     },
     {
         'title': 'Awesome God',
         'singer': ['Michael W. Smith'],
-        'style': None,
+        'style': 'Gospel',
         'year': None,
         'Country': 'USA'
     },
     {
         'title': 'Chevalier de Dieu',
         'singer': ['Bebbi Philip'],
-        'style': None,
+        'style': 'Coupé-décalé',
         'year': None,
         'Country': "Côte d'Ivoire"
     },
     {
         'title': 'Soon and very soon',
         'singer': ['Brenda Fassie'],
-        'style': None,
+        'style': 'Gospel',
         'year': None,
         'Country': 'Afrique du Sud'
     },
     {
         'title': 'My trust is in you',
         'singer': ['David G.'],
-        'style': None,
+        'style': 'Gospel',
         'year': None,
         'Country': 'Nigéria'
     },
     {
         'title': 'God will make a way',
         'singer': ['Don Moen'],
-        'style': None,
+        'style': 'Gospel',
         'year': None,
         'Country': 'USA'
     },
     {
         'title': 'Imela (Thank you)',
         'singer': ['Nathaniel Bassey', 'Enitan Adaba'],
-        'style': None,
+        'style': 'Gospel',
         'year': None,
         'Country': 'Nigéria'
     },
     {
         'title': 'Way maker',
         'singer': ['Sinach'],
-        'style': None,
+        'style': 'Gospel',
         'year': None,
         'Country': 'Nigéria'
     },
     {
         'title': 'You are great',
         'singer': ['Steve Crown'],
-        'style': None,
+        'style': 'Gospel',
         'year': None,
         'Country': 'Nigéria'
     },
     {
         'title': 'Nara ekele mo',
         'singer': ['Travis Greene', 'Tim Godfrey'],
-        'style': None,
+        'style': 'Gospel',
         'year': None,
         'Country': None
     },
     {
         'title': 'What a beautiful name',
         'singer': ['Hillsong Worship'],
-        'style': None,
+        'style': 'Gospel',
         'year': None,
         'Country': 'Australie'
     },
     {
         'title': 'Laisse mon gibier',
         'singer': ['Amaral'],
-        'style': None,
+        'style': 'Coupé-décalé',
         'year': None,
         'Country': "Côte d'Ivoire"
     },
@@ -165,14 +165,14 @@ SONGS = [
     {
         'title': "Case",
         'singer': ['Teni'],
-        'style': None,
+        'style': 'Afropop',
         'year': None,
         'Country': 'Nigéria'
     },
     {
         'title': "Mon Coupé décalé",
         'singer': ['Bebi Philip'],
-        'style': None,
+        'style': 'Coupé-décalé',
         'year': 2019,
         'Country': "Côte d'Ivoire"
     },
@@ -186,28 +186,28 @@ SONGS = [
     {
         'title': "Spécialité Ivoirienne",
         'singer': ['Debordo Leekunfa'],
-        'style': None,
+        'style': 'Coupé-décalé',
         'year': 2019,
         'Country': "Côte d'Ivoire"
     },
     {
         'title': "Case",
         'singer': ['Teni'],
-        'style': None,
+        'style': 'Afropop',
         'year': 2019,
         'Country': 'Nigéria'
     },
     {
         'title': "Moto Moto",
         'singer': ['Dj Arafat'],
-        'style': None,
+        'style': 'Coupé-décalé',
         'year': 2019,
         'Country': "Côte d'Ivoire"
     },
     {
         'title': "Victoire Remix",
         'singer': ['Kerozen', 'Bracket'],
-        'style': None,
+        'style': 'Coupé-décalé',
         'year': 2019,
         'Country': "Côte d'Ivoire"
     },
@@ -221,7 +221,7 @@ SONGS = [
     {
         'title': "N’oublie jamais",
         'singer': ['Venom Cascadeur', 'Kerozen'],
-        'style': None,
+        'style': 'Coupé-décalé',
         'year': 2019,
         'Country': "Côte d'Ivoire"
     },
@@ -242,7 +242,7 @@ SONGS = [
     {
         'title': "Sans bruit",
         'singer': ['Revolution'],
-        'style': None,
+        'style': 'Coupé-décalé',
         'year': 2019,
         'Country': "Côte d'Ivoire"
     },
@@ -270,28 +270,28 @@ SONGS = [
     {
         'title': "Uyo Meyo",
         'singer': ["Teni"],
-        'style': None,
+        'style': 'Afropop',
         'year': 2019,
         'Country': 'Nigéria'
     },
     {
         'title': "Gbese",
         'singer': ["Qdot"],
-        'style': None,
+        'style': 'Afropop',
         'year': 2019,
         'Country': 'Nigéria'
     },
     {
         'title': "Koyoko",
         'singer': ["Serge Beynaud"],
-        'style': None,
+        'style': 'Coupé-décalé',
         'year': 2019,
         'Country': "Côte d'Ivoire"
     },
     {
         'title': "Kota na Koto",
         'singer': ["Serge Beynaud"],
-        'style': None,
+        'style': 'Coupé-décalé',
         'year': 2019,
         'Country': "Côte d'Ivoire"
     },
