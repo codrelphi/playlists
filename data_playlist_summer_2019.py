@@ -280,5 +280,19 @@ SONGS = [
         'style': None,
         'year': 2019,
         'Country': 'Nigéria'
-    }
+    },
+    {
+        'title': "Koyoko",
+        'singer': ["Serge Beynaud"],
+        'style': None,
+        'year': 2019,
+        'Country': "Côte d'Ivoire"
+    },
+    {
+        'title': "Kota na Koto",
+        'singer': ["Serge Beynaud"],
+        'style': None,
+        'year': 2019,
+        'Country': "Côte d'Ivoire"
+    },
 ]
