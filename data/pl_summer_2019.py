@@ -240,6 +240,13 @@ SONGS = [
         'Country': 'Bénin'
     },
     {
+        'title': "Vioutou",
+        'singer': ["Aimée Hovinou", "Rico’s Campos"],
+        'style': None,
+        'year': 2019,
+        'Country': 'Bénin'
+    },
+    {
         'title': "Sans bruit",
         'singer': ['Revolution'],
         'style': 'Coupé-décalé',
