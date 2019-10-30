@@ -302,4 +302,12 @@ SONGS = [
         'year': 2019,
         'Country': "Côte d'Ivoire"
     },
+    {
+        'title': "Les Gos (Boto Remix)",
+        'singer': ["Black T", "Nasty Nesta"],
+        'style': 'Afropop',
+        'year': 2019,
+        'Country': "Bénin"
+    },
+
 ]
